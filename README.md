@@ -9,4 +9,15 @@ Task 2:
 Find a c file(fractionalKnapsack.c) given below.
 Create a lex file. Write code with appropriate regular expression and their corresponding actions such that the lex file takes the c file as Input and provide token as Output line by line(just like example2.l takes sample.pas file as input and provides tokens as output).
 
+Soluation on folder task1, task2
+
+
+Q-
+example1.l
+example2.l(which you will modify as lab task)
+sample.pas
+lex.yy.c
+exam2.exe(.exe file for example2.l, you can name it as you want)
+1/2 screenshots of the output after taking sample.pas file as input.
+
 soluation on folder 161-115-005
